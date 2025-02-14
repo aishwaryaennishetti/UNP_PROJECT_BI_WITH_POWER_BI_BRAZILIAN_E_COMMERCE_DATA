@@ -7,3 +7,7 @@ The project tracks order details, showing trends over time, order status distrib
 Customer reviews are examined by analyzing review scores, customer comments, and the overall average rating. The order performance metrics section evaluates order processing time, delivery efficiency, and the ratio of completed vs. pending orders.
 
 Finally, the project integrates multiple datasets to provide combined insights, such as linking customer locations to order behavior, payment preferences by region, and the correlation between review scores and product categories. This comprehensive approach helps in understanding customer behavior, optimizing logistics, and improving overall business performance in the Brazilian e-commerce market.
+
+Project dashboard :https://drive.google.com/file/d/1H3uzdX03kIklgkQBMpfRkU9qLZ7N-ZOT/view?usp=drive_link
+
+Project pdf file :https://drive.google.com/file/d/1q4CyOmMA8kFoZNqYgDqigTOUiJfa4QFf/view?usp=drive_link
